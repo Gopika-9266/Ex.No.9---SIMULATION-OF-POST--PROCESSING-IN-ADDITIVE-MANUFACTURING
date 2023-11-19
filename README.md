@@ -47,8 +47,14 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/Gopika-9266/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/122762773/b52f4550-315e-49f4-bc7e-151389bb7cfa)
+
+![image](https://github.com/Gopika-9266/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/122762773/2521bb29-bad2-4e95-85c0-5d8002816e84)
+
+![image](https://github.com/Gopika-9266/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/122762773/cfbaae40-d5f5-4c45-8cc7-97bb4748aebf)
+
+### Name: Gopika R
+### Register Number: 212222240031
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
